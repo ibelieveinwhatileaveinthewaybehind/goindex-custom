@@ -4,11 +4,6 @@
       <div class="field is-grouped is-grouped-multiline">
         <div class="control">
           <div class="tags has-addons">
-            <a
-              class="tag is-dark"
-              href="https://discord.gg/QBvKEJZ"
-              target="_blank"
-            >Discord</a>
           </div>
         </div>
       </div>

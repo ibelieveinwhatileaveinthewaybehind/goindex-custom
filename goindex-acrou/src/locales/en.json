@@ -4,12 +4,12 @@
   "index": "Home",
   "folder": "Folder",
   "notify": {
-    "title": "Notify"
+    "title": "Notification"
   },
   "copy": {
     "text": "Copy",
-    "success": "Copy successful",
-    "error": "Copy failed"
+    "success": "Copied!",
+    "error": "Copy failed!"
   },
   "list": {
     "view": {
@@ -26,11 +26,11 @@
     "loading": "Loading...",
     "opt": {
       "copy": "Copy link",
-      "newTab": "Open a new tab",
+      "newTab": "Open in new tab",
       "download": "Download"
     },
-    "total": "Total",
-    "item": "item"
+    "total": "Total of",
+    "item": "items"
   },
   "search": {
     "placeholder": "Search resources..."
@@ -48,7 +48,7 @@
   "setting": {
     "clear": {
       "text": "Clean cache",
-      "success": "Cache cleanup successful"
+      "success": "Cache cleaned up!"
     }
   },
   "checkVersion": {
